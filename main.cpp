@@ -6,5 +6,7 @@ int main()
 
 	std::cout << "1111" << std::endl;
 
+	std::cout << "2222" << std::endl;
+
 	return 0;
 }
